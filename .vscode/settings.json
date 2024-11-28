@@ -1,0 +1,19 @@
+{
+  "cSpell.words": ["znsconnect", "domain", "name service"],
+  "search.exclude": {
+    "**/.yarn": true,
+    "**/.pnp.*": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.colorCustomizations": {
+    "titleBar.activeBackground": "#CAFC0190",
+    "titleBar.inactiveBackground": "#CAFC0190",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveForeground": "#FFFFFF"
+  },
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "WillLuke.nextjs.hasPrompted": true
+}
